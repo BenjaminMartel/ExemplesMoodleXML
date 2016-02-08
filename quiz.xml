@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!ENTITY file1 "PairMatchingQuestion.xml">
+<!ENTITY file2 "MultipleChoiceQuestion.xml">
+
+<quiz>
+	&file1;
+	&file2;
+</quiz>
